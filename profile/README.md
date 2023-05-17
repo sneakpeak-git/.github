@@ -4,8 +4,6 @@
 
 Meet SneakPeak, the Netherlands' premier platform for trading authentic sneakers. This app, inspired by StockX, offers a dedicated space for Dutch sneaker enthusiasts to track, buy, and sell their preferred models.
 
-Project JIRA board: https://abandic.atlassian.net/browse/SNEAK
-
 ## Setting up the project
 
 All apps and services in this project use **Node.js** and **Yarn** to run. You can set them up by following these steps:
