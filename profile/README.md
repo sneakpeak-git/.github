@@ -19,7 +19,7 @@ All apps and services in this project use **Node.js** and **Yarn** to run. You c
     ```
     sudo apt-get install nodejs
     ```
-  On MacOS, you can use Homebrew:
+  On MacOS, you can use [Homebrew](https://brew.sh/):
     ```
     brew install node
     ```
