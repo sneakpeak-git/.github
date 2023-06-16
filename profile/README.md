@@ -40,5 +40,7 @@ All apps and services in this project use **Node.js** and **Yarn** to run. You c
 
 - Check out app specific instructions on their respective branches.
 
-Note that these instructions will be updated as the project expands.
+## Code formatting
 
+These projects are already set up for use with [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/).
+It is highly recommended to install and set up [this extension](https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint) for VS Code to take advantage of these code formatters.
