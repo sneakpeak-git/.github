@@ -6,7 +6,7 @@ Meet SneakPeak, the Netherlands' premier platform for trading authentic sneakers
 
 ## Setting up the project
 
-All apps and services in this project use **Node.js** and **Yarn** to run. You can set them up by following these steps:
+All apps and services in this organization use **Node.js** and **Yarn** to run. You can set them up by following these steps:
 
 ## 1. Install Node.js
 
@@ -42,5 +42,5 @@ All apps and services in this project use **Node.js** and **Yarn** to run. You c
 
 ## Code formatting
 
-These projects are already set up for use with [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/).
+All projects are already set up for use with [Prettier](https://prettier.io/) and [ESLint](https://eslint.org/).
 It is highly recommended to install and set up [this extension](https://marketplace.visualstudio.com/items?itemName=rvest.vs-code-prettier-eslint) for VS Code to take advantage of these code formatters.
